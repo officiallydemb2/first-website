@@ -1,0 +1,25 @@
+h1 {
+    font-family: sans-serif;
+    color: blue;
+    font-size: xx-large;
+    
+}
+dt{font-weight: bolder;}
+h2{
+    color: black;
+}
+h3{
+    font-weight: 400;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(135, 136, 173);
+    font-size: x-large;
+}
+div{
+    font-weight: 900;
+    color: cornflowerblue;
+    font-size: xx-large;
+}
